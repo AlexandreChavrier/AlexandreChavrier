@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Welcome to my profile !</h3>
 
+<p align="center"> 
 - 🌱 I’m currently learning fullstack developement at wecount in Lyon.
-
 - 📫 How to reach me **alex.chavrier@gmail.com**
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
