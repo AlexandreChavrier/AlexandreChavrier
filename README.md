@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Welcome to my profile !</h3>
 
-- 🌱 I’m currently learning **Java, Python, frameworks**
+- 🌱 I’m currently learning fullstack developement at wecount in Lyon.
 
-- 📫 How to reach me **alex69.chavrier@gmail.com**
+- 📫 How to reach me **alex.chavrier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
